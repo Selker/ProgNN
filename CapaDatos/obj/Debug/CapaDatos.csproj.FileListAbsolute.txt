@@ -1,0 +1,6 @@
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaDatos\obj\Debug\CapaDatos.pdb

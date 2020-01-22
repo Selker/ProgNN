@@ -1,0 +1,7 @@
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\CarlGp\Desktop\ProyectoPNN1\CapaNegocio\obj\Debug\CapaNegocio.pdb
